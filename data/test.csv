@@ -1,0 +1,65 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-01-01T00:37:58.700Z,42.5138,142.7227,89.9,4,mb,,109,0.593,0.81,us,us10004anj,2016-03-28T22:09:31.040Z,"35 km NE of Shizunai-furukawach?, Japan",earthquake,6.1,6.8,0.156,11,reviewed,us,us
+2016-01-01T03:00:17.640Z,35.6383,141.7001,34.85,4.1,mb,,135,1.36,1.12,us,us10004dcw,2016-03-28T22:09:31.040Z,"79 km E of Hasaki, Japan",earthquake,8.3,6.6,0.185,8,reviewed,us,us
+2016-01-01T08:46:58.690Z,33.0632,141.5632,10,4.6,mb,,113,1.469,0.81,us,us10004apt,2016-03-28T22:09:31.040Z,"258 km SSE of Katsuura, Japan",earthquake,8,1.9,0.119,21,reviewed,us,us
+2016-01-01T21:28:35.740Z,44.7496,147.6296,113.08,4.3,mb,,190,3.662,0.62,us,us10004ary,2016-03-28T22:09:32.040Z,"56 km SSW of Kuril’sk, Russia",earthquake,10.5,9.9,0.084,40,reviewed,us,us
+2016-01-02T02:58:37.350Z,36.9021,144.5343,35.96,4.1,mb,,159,3.134,1.01,us,us10004dh3,2016-03-28T22:09:32.040Z,"off the east coast of Honshu, Japan",earthquake,10.5,7,0.174,9,reviewed,us,us
+2016-01-02T04:22:19.570Z,44.8069,129.9406,585.47,5.8,mww,,12,0.311,0.89,us,us10004atb,2022-03-10T00:35:10.465Z,"21 km ENE of Chaihe, China",earthquake,8.1,3.6,,,reviewed,us,us
+2016-01-02T12:46:56.850Z,30.9555,139.4756,10,4.2,mb,,116,2.172,1.09,us,us10004dhc,2016-03-28T22:09:33.040Z,"Izu Islands, Japan region",earthquake,8.3,1.9,0.199,7,reviewed,us,us
+2016-01-02T21:25:00.740Z,43.1298,146.8867,26.3,4.8,mb,,95,2.971,0.76,us,us10004ax6,2016-03-28T22:09:33.040Z,"75 km S of Shikotan, Russia",earthquake,8.5,4.6,0.049,127,reviewed,us,us
+2016-01-03T00:37:02.040Z,44.541,148.2519,10,4.9,mb,,117,4.082,0.9,us,us10004ay9,2016-03-28T22:09:33.040Z,"81 km SSE of Kuril’sk, Russia",earthquake,8.1,1.8,0.044,160,reviewed,us,us
+2016-01-03T02:59:43.660Z,37.1607,141.3295,50.01,4.3,mb,,135,0.827,0.67,us,us10004ayv,2016-03-28T22:09:34.040Z,"41 km ENE of Iwaki, Japan",earthquake,7.2,8,0.129,17,reviewed,us,us
+2016-01-04T00:50:42.570Z,32.4998,137.6219,409.68,4,mb,,58,1.922,0.66,us,us10004dzk,2016-03-28T22:09:35.040Z,"205 km SE of Shing?, Japan",earthquake,9.7,7.8,0.108,23,reviewed,us,us
+2016-01-04T02:23:02.750Z,43.9328,147.4848,68.3,4.6,mb,,97,3.533,0.87,us,us10004dzv,2016-03-28T22:09:35.040Z,"63 km ENE of Shikotan, Russia",earthquake,10.1,7,0.051,113,reviewed,us,us
+2016-01-04T20:17:34.000Z,32.2436,131.1595,100.11,4,mb,,95,0.91,0.6,us,us10004e0k,2016-03-28T22:09:37.040Z,"27 km NW of Tsuma, Japan",earthquake,6.8,6.9,0.173,9,reviewed,us,us
+2016-01-05T02:21:11.340Z,30.6132,132.7337,4.71,5.8,mww,,29,2.151,0.48,us,us10004ben,2016-11-10T22:07:07.459Z,"166 km E of Nishinoomote, Japan",earthquake,2,3.2,,,reviewed,us,us
+2016-01-05T02:21:34.400Z,44.7562,147.7166,105.45,4.5,mb,,135,3.724,0.62,us,us10004e18,2016-03-28T22:09:37.040Z,"53 km SSW of Kuril’sk, Russia",earthquake,14.8,5.8,0.192,8,reviewed,us,us
+2016-01-05T12:23:21.540Z,30.5581,132.8029,10,4.5,mb,,107,2.229,0.7,us,us10004e1b,2016-03-28T22:09:38.040Z,"173 km E of Nishinoomote, Japan",earthquake,7.6,1.9,0.131,17,reviewed,us,us
+2016-01-05T19:46:11.300Z,37.5611,144.5787,25.4,4.6,mb,,74,3.02,1.12,us,us10004bkx,2016-03-28T22:09:38.040Z,"off the east coast of Honshu, Japan",earthquake,7.3,5,0.066,68,reviewed,us,us
+2016-01-06T01:30:01.480Z,41.2996,129.0467,0,5.1,mb,,21,3.34,0.83,us,us10004bnm,2017-09-03T04:20:01.133Z,"21 km ENE of S?ngjibaegam, North Korea",nuclear explosion,6,1.7,0.032,306,reviewed,us,us
+2016-01-07T00:15:20.990Z,42.6207,145.6003,55.69,4.5,mb,,126,1.91,0.68,us,us10004bxv,2016-03-28T22:09:41.040Z,"78 km S of Nemuro, Japan",earthquake,8.2,7.6,0.076,51,reviewed,us,us
+2016-01-08T01:00:32.400Z,30.5536,132.7512,30.7,4,mb,,142,2.19,1.37,us,us10004efu,2016-03-30T02:27:48.040Z,"169 km E of Nishinoomote, Japan",earthquake,6.5,5.5,0.211,7,reviewed,us,us
+2016-01-08T02:18:49.040Z,40.2573,142.1638,54.94,4.3,mb,,154,1.252,0.66,us,us10004ca8,2016-03-30T02:27:48.040Z,"62 km ESE of Hachinohe, Japan",earthquake,7.1,4.2,0.138,15,reviewed,us,us
+2016-01-08T15:00:34.750Z,36.8664,141.2486,53.48,4.3,mb,,153,1.062,0.93,us,us10004cd5,2016-03-30T02:27:49.040Z,"38 km ESE of Iwaki, Japan",earthquake,6,6.6,0.137,15,reviewed,us,us
+2016-01-09T04:44:07.620Z,30.6046,132.7153,29.54,4.3,mb,,123,2.14,0.77,us,us10004eih,2016-03-30T02:27:50.040Z,"164 km E of Nishinoomote, Japan",earthquake,4.7,5.5,0.118,20,reviewed,us,us
+2016-01-09T04:48:06.340Z,30.6366,132.6237,32.42,4.3,mb,,141,2.055,0.73,us,us10004eii,2016-03-30T02:27:50.040Z,"155 km E of Nishinoomote, Japan",earthquake,8.4,6.1,0.142,14,reviewed,us,us
+2016-01-10T09:53:05.300Z,35.2686,141.1647,29.54,4.3,mb,,159,1.244,0.7,us,us10004euv,2016-03-30T02:27:52.040Z,"59 km SSE of Hasaki, Japan",earthquake,5.9,6.6,0.142,14,reviewed,us,us
+2016-01-10T15:37:01.000Z,42.2048,142.8721,59.35,4.3,mb,,84,0.284,0.72,us,us10004dbi,2016-03-30T02:27:53.040Z,"44 km ESE of Shizunai-furukawach?, Japan",earthquake,5.4,6.1,0.1,28,reviewed,us,us
+2016-01-11T06:26:45.750Z,40.4372,141.3087,41.47,4.7,mb,,96,2.104,1.11,us,us10004dfn,2016-03-30T02:27:53.040Z,"17 km WSW of Hachinohe, Japan",earthquake,6.2,5.3,0.051,118,reviewed,us,us
+2016-01-11T08:21:27.780Z,40.1837,142.4746,52.33,4.6,mb,,134,1.9,0.76,us,us10004dga,2016-03-30T02:27:54.040Z,"75 km NE of Miyako, Japan",earthquake,5.3,7,0.09,37,reviewed,us,us
+2016-01-11T15:15:48.080Z,40.5311,141.1217,3.39,4,mb,,140,0.425,0.69,us,us10004eww,2016-03-30T02:27:54.040Z,"28 km SW of Misawa, Japan",earthquake,4.2,5.5,0.157,11,reviewed,us,us
+2016-01-11T17:08:03.920Z,44.4761,141.0867,238.81,6.2,mww,,33,1.139,0.96,us,us10004djn,2020-07-10T14:58:07.726Z,"74 km NW of Rumoi, Japan",earthquake,6.9,4.1,,,reviewed,us,us
+2016-01-11T17:50:28.800Z,41.9003,142.4393,53.61,4.8,mb,,111,0.547,0.96,us,us10004dkl,2016-03-30T02:27:55.040Z,"48 km S of Shizunai-furukawach?, Japan",earthquake,4.5,6.3,0.055,102,reviewed,us,us
+2016-01-13T09:54:37.010Z,37.6015,143.6433,34.52,4.5,mb,,135,2.278,0.87,us,us10004fla,2016-03-30T02:27:57.040Z,"224 km ESE of Ishinomaki, Japan",earthquake,7,4.4,0.131,17,reviewed,us,us
+2016-01-13T12:10:08.870Z,30.6921,132.7602,27.45,4.4,mb,,142,2.14,0.77,us,us10004flc,2016-03-30T02:27:58.040Z,"166 km SE of Nichinan, Japan",earthquake,8.2,1.2,0.179,10,reviewed,us,us
+2016-01-13T12:25:55.310Z,31.9872,130.9355,114.42,4.4,mb,,101,0.629,0.94,us,us10004fld,2016-03-30T02:27:58.040Z,"4 km W of Kobayashi, Japan",earthquake,6.9,6.2,0.24,5,reviewed,us,us
+2016-01-14T03:25:33.640Z,41.9723,142.781,46,6.7,mww,,22,0.281,0.98,us,us10004ebx,2020-07-07T22:45:34.603Z,"52 km SE of Shizunai-furukawach?, Japan",earthquake,6.2,1.9,,,reviewed,us,us
+2016-01-14T19:28:54.380Z,36.4791,140.6118,53.83,4.2,mwr,,128,0.42,0.88,us,us10004elu,2016-03-30T02:28:00.040Z,"4 km ENE of Funaishikawa, Japan",earthquake,6.5,5.4,0.068,21,reviewed,us,us
+2016-01-15T04:17:00.870Z,32.1885,131.0709,115.61,4,mb,,149,0.857,0.65,us,us10004g0s,2016-04-06T17:30:20.040Z,"24 km NNE of Kobayashi, Japan",earthquake,6.1,9,0.259,4,reviewed,us,us
+2016-01-16T00:25:42.220Z,39.2349,141.5953,71.66,4.1,mb,,127,1.503,0.37,us,us10004g2g,2016-04-06T17:30:21.040Z,"10 km SSE of T?no, Japan",earthquake,7.3,6.2,0.303,3,reviewed,us,us
+2016-01-16T12:49:28.530Z,37.0914,141.1783,66.7,4,mb,,142,0.835,0.66,us,us10004g24,2016-04-06T17:30:22.040Z,"26 km E of Iwaki, Japan",earthquake,7.7,4.3,0.183,8,reviewed,us,us
+2016-01-17T13:01:12.220Z,30.6448,132.7969,10,4.8,mb,,100,2.188,0.57,us,us10004f77,2016-11-10T22:08:47.437Z,"172 km E of Nishinoomote, Japan",earthquake,7.2,1.9,0.073,57,reviewed,us,us
+2016-01-17T14:23:51.510Z,30.6138,132.7949,8.95,4.6,mb,,123,2.199,0.84,us,us10004gbr,2016-04-06T17:30:24.040Z,"172 km E of Nishinoomote, Japan",earthquake,7.7,4.2,0.113,23,reviewed,us,us
+2016-01-17T23:38:47.780Z,30.7066,132.834,10,4.6,mb,,106,2.193,1.15,us,us10004gc5,2016-04-06T17:30:24.040Z,"171 km SE of Nichinan, Japan",earthquake,6.2,1.9,0.122,20,reviewed,us,us
+2016-01-18T00:56:48.070Z,35.1846,139.2509,146.53,4.6,mb,,113,1.012,0.88,us,us10004f9n,2016-04-06T17:30:25.040Z,"11 km SE of Odawara, Japan",earthquake,6.1,5.7,0.049,124,reviewed,us,us
+2016-01-18T03:35:53.570Z,30.7162,132.75,10,4.6,mb,,123,2.123,0.76,us,us10004faa,2016-04-06T17:30:25.040Z,"164 km SE of Nichinan, Japan",earthquake,8.8,1.9,0.089,38,reviewed,us,us
+2016-01-18T22:55:36.160Z,30.6712,132.776,10,4.3,mb,,123,2.161,0.85,us,us10004gdi,2016-04-06T17:30:26.040Z,"169 km SE of Nichinan, Japan",earthquake,7.2,1.8,0.116,21,reviewed,us,us
+2016-01-19T09:49:20.960Z,37.7324,141.7234,56.61,4.4,mb,,135,0.752,1,us,us10004gfa,2016-04-06T17:30:26.040Z,"69 km ENE of Namie, Japan",earthquake,5.8,5.7,0.112,23,reviewed,us,us
+2016-01-19T15:23:44.140Z,40.3021,142.0922,46.78,4.4,mb,,134,1.183,1.14,us,us10004fm4,2016-04-06T17:30:27.040Z,"54 km ESE of Hachinohe, Japan",earthquake,6.8,7.2,0.107,25,reviewed,us,us
+2016-01-19T22:12:23.590Z,44.245,140.2458,236.32,4,mb,,43,1.651,0.52,us,us10004gfp,2016-04-06T17:30:27.040Z,"117 km WNW of Rumoi, Japan",earthquake,9.6,6.9,0.084,38,reviewed,us,us
+2016-01-20T07:16:52.460Z,30.2542,140.8632,72.63,4.8,mb,,91,2.989,1.07,us,us10004ft5,2016-04-06T17:30:28.040Z,"Izu Islands, Japan region",earthquake,8.9,6.7,0.074,56,reviewed,us,us
+2016-01-20T15:48:10.460Z,40.6118,144.6831,19.2,4.4,mb,,136,1.812,0.79,us,us20004uqt,2016-04-06T17:30:28.040Z,"257 km ENE of Miyako, Japan",earthquake,7.4,4.8,0.204,7,reviewed,us,us
+2016-01-20T21:53:41.490Z,43.1102,146.0168,38.44,5.1,mb,,74,2.379,0.71,us,us10004fwv,2016-04-06T17:30:29.040Z,"43 km ESE of Nemuro, Japan",earthquake,7.4,4.5,0.037,233,reviewed,us,us
+2016-01-21T01:05:18.440Z,40.6084,144.6304,31.26,4.6,mb,,126,1.79,0.72,us,us10004fyl,2016-04-06T17:30:29.040Z,"252 km ENE of Miyako, Japan",earthquake,7.9,5.6,0.075,53,reviewed,us,us
+2016-01-21T18:07:25.500Z,30.5767,132.8069,10,4.2,mb,,143,2.224,0.48,us,us20004ush,2016-04-06T17:30:29.040Z,"174 km E of Nishinoomote, Japan",earthquake,8.6,1.9,0.146,13,reviewed,us,us
+2016-01-21T21:15:45.260Z,30.9284,142.9072,25.42,4.4,mb,,149,3.414,0.6,us,us20004usk,2016-04-06T17:30:30.040Z,"Izu Islands, Japan region",earthquake,11.3,4,0.169,10,reviewed,us,us
+2016-01-22T13:32:00.960Z,43.6622,139.8449,211.81,4.1,mb,,95,1.428,0.62,us,us20004v30,2016-04-08T23:06:08.040Z,"90 km NW of Yoichi, Japan",earthquake,10.8,5.6,0.213,6,reviewed,us,us
+2016-01-23T15:57:00.060Z,43.2468,145.6536,100.96,4.8,mb,,126,2.215,0.84,us,us10004gm4,2016-04-08T23:06:09.040Z,"10 km SE of Nemuro, Japan",earthquake,6.7,7.7,0.059,90,reviewed,us,us
+2016-01-23T21:33:35.200Z,36.0066,140.8012,15.12,4.6,mb,,117,0.542,0.75,us,us10004gnl,2016-04-08T23:06:10.040Z,"14 km ENE of Kashima-shi, Japan",earthquake,4.2,3.9,0.065,70,reviewed,us,us
+2016-01-24T15:12:55.880Z,35.6419,140.6491,38.88,4.8,mb,,110,0.695,0.99,us,us10004gtq,2016-04-08T23:06:12.040Z,"8 km S of Asahi, Japan",earthquake,6.2,6.1,0.05,123,reviewed,us,us
+2016-01-24T17:13:23.130Z,37.15,141.3087,38.72,4.2,mb,,155,0.827,1.31,us,us20004vgn,2016-04-08T23:06:12.040Z,"39 km ENE of Iwaki, Japan",earthquake,2.7,9.7,0.2,7,reviewed,us,us
+2016-01-26T11:37:43.080Z,38.2347,141.8871,49.17,4.6,mb,,66,0.94,0.83,us,us20004unx,2016-04-08T23:06:16.040Z,"55 km ESE of Ishinomaki, Japan",earthquake,6.4,6.4,0.051,116,reviewed,us,us
+2016-01-28T20:47:27.800Z,38.1901,141.9192,38.28,4.6,mb,,130,0.947,0.89,us,us20004vcv,2016-04-08T23:06:19.040Z,"59 km ESE of Ishinomaki, Japan",earthquake,5.6,6.8,0.132,17,reviewed,us,us
+2016-01-29T17:45:33.130Z,37.0464,142.2665,34.96,4.1,mb,,115,1.433,1.1,us,us20004wul,2016-04-14T22:51:33.040Z,"122 km ESE of Namie, Japan",earthquake,6.9,5.6,0.197,9,reviewed,us,us
+2016-01-30T17:23:35.200Z,44.0037,147.816,66.02,4.9,mb,,97,3.766,0.58,us,us20004w22,2016-04-14T22:51:36.040Z,"90 km ENE of Shikotan, Russia",earthquake,8.8,5.8,0.042,176,reviewed,us,us
+2016-01-31T04:26:17.330Z,39.9771,142.739,20.93,4.3,mb,,190,2.596,0.66,us,us20004x1g,2016-04-14T22:51:36.040Z,"near the east coast of Honshu, Japan",earthquake,11.3,9.5,0.308,3,reviewed,us,us
